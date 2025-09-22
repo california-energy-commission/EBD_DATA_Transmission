@@ -1,0 +1,31 @@
+[
+  {
+    "ProjectID": "",
+    "Stage": "",
+    "PostInstallationStatus": "",
+    "ParticipantEnrolledInNewUtilityRatePlan": "",
+    "CustomerEnrolledInDRLoadFlexProgram": "",
+    "NameOfDRLoadFlexProgram": "",
+    "SupMeauresFundedByPartnerPrograms": "",
+    "SolarPvCostPartnerProgram": "",
+    "PartnerProgramNameSolarPV": "",
+    "BatteryStorageCostPartnerProgram": "",
+    "PartnerProgramNameBatteryStorageCost": "",
+    "EvChargerCostPartnerProgram": "",
+    "PartnerProgramNameEvCharger": "",
+    "OtherMeasurePartnerProgram": "",
+    "OtherCostPartnerProgram": "",
+    "PartnerProgramNameOther": "",
+    "HotlineCallTally": "",
+    "IssuesReported": "",
+    "IssueOther": "",
+    "DateOfLatestCall": "",
+    "DateSurveyProvidedToParticipant": "",
+    "DateSurveyReceivedFromParticipant": "",
+    "ActualNormalizedGasSavingsThermsYr": "",
+    "ActualNormalizedElectricitySavingsKwhYr": "",
+    "ActualNormalizedEnergySavingsKwheYr": "",
+    "MeasuredUtilityBillImpactYr": "",
+    "MeasuredChangeInCoincidentPeakLoadKw": ""
+  }
+]
